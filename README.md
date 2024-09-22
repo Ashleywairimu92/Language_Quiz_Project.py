@@ -124,4 +124,7 @@ License
 - **Database Schema**: Provides an overview of the tables used in the database.
 - **Future Improvements**: Lists potential future features for the app.
 
+THE LINK TO THE VIDEO
+https://www.loom.com/share/c62fea248ba14c59baa0355498fd38e5?sid=2d952d34-341b-45db-ba74-901b67c470be
+
 This README can be modified as you progress through your project and add more features.
